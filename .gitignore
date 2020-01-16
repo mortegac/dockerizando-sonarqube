@@ -1,0 +1,10 @@
+
+
+### OSX ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+_data/
+unit-test/
